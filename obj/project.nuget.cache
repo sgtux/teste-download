@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0/n7w4FJ+6vyfedUUEiEsyP91Y0/uR47N+QUw2L6emGsWNRuFKIucDFFoqQwWgRjnn2FL64Zg2SXaoA7dU2hQ==",
+  "success": true,
+  "projectFilePath": "/tmp/EnvioEmail/EnvioEmail.csproj",
+  "expectedPackageFiles": [
+    "/home/tux/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/tux/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/tux/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.14/microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

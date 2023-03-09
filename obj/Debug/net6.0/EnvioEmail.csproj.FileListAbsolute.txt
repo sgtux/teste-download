@@ -1,0 +1,15 @@
+/tmp/EnvioEmail/bin/Debug/net6.0/EnvioEmail
+/tmp/EnvioEmail/bin/Debug/net6.0/EnvioEmail.deps.json
+/tmp/EnvioEmail/bin/Debug/net6.0/EnvioEmail.runtimeconfig.json
+/tmp/EnvioEmail/bin/Debug/net6.0/EnvioEmail.dll
+/tmp/EnvioEmail/bin/Debug/net6.0/EnvioEmail.pdb
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.csproj.AssemblyReference.cache
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.AssemblyInfoInputs.cache
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.AssemblyInfo.cs
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.csproj.CoreCompileInputs.cache
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.dll
+/tmp/EnvioEmail/obj/Debug/net6.0/refint/EnvioEmail.dll
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.pdb
+/tmp/EnvioEmail/obj/Debug/net6.0/EnvioEmail.genruntimeconfig.cache
+/tmp/EnvioEmail/obj/Debug/net6.0/ref/EnvioEmail.dll
